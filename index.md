@@ -3,10 +3,10 @@
 ### 简介
 轻便而简洁，内存仅为十几M，与市面上动辄几十M上百M的应用不同，我们并不占用太多内存。
 
-![Image](ReadApps/640x960.png)
-![Image](ReadApps/1.png)
-![Image](ReadApps/2.png)
-![Image](ReadApps/3.png)
+![Image](./640x960.png)
+![Image](./1.png)
+![Image](./2.png)
+![Image](./3.png)
 
 ### Support or Contact
 249218058@qq.com
