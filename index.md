@@ -3,26 +3,10 @@
 ### 简介
 轻便而简洁，内存仅为十几M，与市面上动辄几十M上百M的应用不同，我们并不占用太多内存。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wengyunqiang/readApps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://github.com/wengyunqiang/ReadApps/blob/master/640x960.png)
+![Image](https://github.com/wengyunqiang/ReadApps/blob/master/1.png)
+![Image](https://github.com/wengyunqiang/ReadApps/blob/master/2.png)
+![Image](https://github.com/wengyunqiang/ReadApps/blob/master/3.png)
 
 ### Support or Contact
 249218058@qq.com
